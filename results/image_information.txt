@@ -1,0 +1,10 @@
+File: astronaut.png
+Shape: (512, 512, 3)
+Width: 512
+Height: 512
+Channels: 3
+Data type: uint8
+Minimum: 0
+Maximum: 255
+Mean: 114.60
+Standard deviation: 81.23
